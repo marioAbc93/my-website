@@ -1,16 +1,15 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
-  <a href="https://www.gatsbyjs.com">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
+  <a href="https://www.mariobarrosc.com/">
+    ![code-simbol](https://user-images.githubusercontent.com/48452077/189551823-97589e27-72a1-4ed0-87a4-2b86a4cc5180.png)
   </a>
 </p>
 <h1 align="center">
-  Gatsby's default starter
+  Mi portafolio
 </h1>
 
-Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
-
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._
+Desarrollado con gatsby y react js. ver <a href="https://www.mariobarrosc.com/">DEMO</a>
+![Mario Site](https://user-images.githubusercontent.com/48452077/189551885-fa0b302e-1bd7-466b-a0cb-dd0627d6b3e7.PNG)
 
 ## 🚀 Quick start
 
