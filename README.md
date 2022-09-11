@@ -1,9 +1,4 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center">
-  <a href="https://www.mariobarrosc.com/">
-    ![code-simbol](https://user-images.githubusercontent.com/48452077/189551823-97589e27-72a1-4ed0-87a4-2b86a4cc5180.png)
-  </a>
-</p>
 <h1 align="center">
   Mi portafolio
 </h1>
