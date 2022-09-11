@@ -1,15 +1,28 @@
 import * as React from "react"
-
-import Layout from "../components/layout"
+import Crying         from "../assets/img/crying.gif"
+import Layout from "../components/projectLayout"
 import Seo from "../components/seo"
 
 const NotFoundPage = () => (
   <Layout>
-    <h1>404: Not Found</h1>
-    <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
+    <section className="home-section align-items-center  active" id="inicio">
+      <div className="container">
+        <div className="row align-items-center">
+          <div className="home-text">
+            <h1>Ups</h1>
+            <p><strong>La pagina que buscas no existe.. 😐😶😥</strong></p>
+          </div>
+          <div className="home-img">
+            <div className="img-box">
+              <img className="hello" src={Crying} alt="" />
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
   </Layout>
 )
 
-export const Head = () => <Seo title="404: Not Found" />
+export const Head = () => <Seo title="Página no encontrada" />
 
 export default NotFoundPage
